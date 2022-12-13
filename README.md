@@ -1,2 +1,2 @@
 # Get_Inference_JeuxDeMots
-Get the inference into a ralation named 'r' between a term 'a' and another term 'b'
+Get inference into a rlation named 'r' between a term 'a' and another term 'b'
